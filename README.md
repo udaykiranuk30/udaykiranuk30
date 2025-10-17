@@ -38,6 +38,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Uday Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykiranuk30&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiranuk30&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=udaykiranuk30&theme=tokyonight&hide_border=false)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=udaykiranuk30&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+
+---
+
 ## 📫 Contact Me
 - 📧 Email: [udaykiran9000rs@gmail.com](mailto:udaykiran9000rs@gmail.com)  
 - 🔗 LinkedIn: [Uday Kiran](https://www.linkedin.com/in/uday-kiran-krishnamurthy-0a0522280/)
