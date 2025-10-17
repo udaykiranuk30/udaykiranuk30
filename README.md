@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Uday Kiran 👋
-**Data Engineer | Databricks Enthusiast | Big Data & Analytics**
+**Data Engineer | Databricks Enthusiast | Big Data & Analytics | Back-End Application Development**
 
 ---
 
@@ -25,19 +25,17 @@ I'm Uday Kiran 👋
 
 ---
 
+## 💻 Secondary Skills
+**Back-End Development**
+- Building REST APIs and services using **Java**, **Spring Boot**, **Spring MVC**, and **Hibernate**.  
+- Understanding of **server-side logic**, database integration, and application workflow.  
+
+---
 ## 📚 Currently Learning
 ![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaykiran9000rs&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran9000rs&layout=compact&theme=radical)
-
----
 
 ## 📫 Contact Me
 - Email: [udaykiran9000rs@gmail.com](mailto:udaykiran9000rs@gmail.com)  
