@@ -20,7 +20,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -33,7 +32,7 @@
 
 ## 📚 Currently Learning
 ![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
