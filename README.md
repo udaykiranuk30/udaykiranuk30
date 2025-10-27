@@ -23,9 +23,7 @@
 ---
 
 ## 📚 Currently Learning
-Azure Data Factory <p align="left"> <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a> 
-Azure Synapse Analytics <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a>
-Microsoft Fabric <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a> </p>
+<p align="left"> <!-- Azure Data Factory --> <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Microsoft_Azure_Logo.svg" width="40" height="40"/> <img src="https://learn.microsoft.com/en-us/media/logos/data-factory.svg" width="60" height="60" alt="Azure Data Factory"/> </a> <!-- Azure Synapse Analytics --> <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/synapse-analytics.svg" width="60" height="60" alt="Azure Synapse Analytics"/> </a> <!-- Microsoft Fabric --> <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Microsoft_Fabric_logo.svg" width="60" height="60" alt="Microsoft Fabric"/> </a> </p>
 
 ---
 
