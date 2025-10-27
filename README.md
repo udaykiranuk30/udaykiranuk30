@@ -25,16 +25,15 @@
 ## 📚 Currently Learning
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Azure_Data_Factory_logo.svg" width="55" height="55" alt="Azure Data Factory"/>
+    <img src="https://az-icons.com/download/data-factories.svg" width="50" height="50" alt="Azure Data Factory"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Azure_Synapse_Analytics_logo.svg" width="55" height="55" alt="Azure Synapse Analytics"/>
+    <img src="https://az-icons.com/download/azure-synapse-analytics.svg" width="50" height="50" alt="Azure Synapse Analytics"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Microsoft_Fabric_logo.svg" width="55" height="55" alt="Microsoft Fabric"/>
+    <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/svg/microsoft-fabric.svg" width="50" height="50" alt="Microsoft Fabric"/>
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
