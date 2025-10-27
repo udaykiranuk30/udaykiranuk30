@@ -6,20 +6,13 @@
 ## 🛠️ Primary Skills
 
 ### Programming & Big Data
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="70" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="120" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<p align="left"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="90" height="50"/> </a> <a href="https://docs.databricks.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="120" height="40"/> </a> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/> </a> </p>>
 
 ### Database & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/>
+<p align="left"> <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> </a> <a href="https://git-scm.com/doc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/> </a> <a href="https://docs.github.com/en" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/> </a> </p>
 
 ### Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
+<p align="left"> <a href="https://spring.io/projects/spring-framework" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="70" height="70"/> </a> <a href="https://hibernate.org/orm/documentation/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="55" height="55"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55"/> </a> </p>
 ---
 
 ## 💻 Secondary Skills
@@ -30,12 +23,7 @@
 ---
 
 ## 📚 Currently Learning
-<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
- Azure Data Factory
-<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
- Azure Synapse Analytics
-<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
- Microsoft Fabric
+<p align="left"> <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a> <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a> <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/> </a> </p>
 
 ---
 
