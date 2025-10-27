@@ -6,21 +6,20 @@
 ## 🛠️ Primary Skills
 
 ### Programming & Big Data
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PySpark](https://img.shields.io/badge/-PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="70" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="120" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/>
 
 ### Frameworks
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="70" height="70"/>
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
 ---
 
 ## 💻 Secondary Skills
@@ -31,9 +30,12 @@
 ---
 
 ## 📚 Currently Learning
-![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
+ Azure Data Factory
+<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
+ Azure Synapse Analytics
+<img src="https://learn.microsoft.com/en-us/media/logos/logo_azure.svg" width="50" height="50"/>
+ Microsoft Fabric
 
 ---
 
